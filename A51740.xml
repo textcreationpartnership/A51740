@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend, shewing the vanity of this opinion that every mans sense and reason is to guide him in matters of faith.</title>
+            <author>Manby, Peter, d. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51740</idno>
+            <idno type="STC">Wing M386</idno>
+            <idno type="STC">ESTC R31875</idno>
+            <idno type="EEBO-CITATION">12271538</idno>
+            <idno type="OCLC">ocm 12271538</idno>
+            <idno type="VID">58274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58274)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1508:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend, shewing the vanity of this opinion that every mans sense and reason is to guide him in matters of faith.</title>
+                  <author>Manby, Peter, d. 1697.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin? :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Manby by Wing.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in Marsh's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Apologetic works.</term>
+               <term>Faith and reason.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:58274:1" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> Letter <hi>to a Friend, shewing the Vanity of this Opinion:</hi> That every Mans <hi>Senſe</hi> and <hi>Reaſon</hi> is to guide him in matters of <hi>Faith.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>This may be Printed,</p>
+                  <closer>
+                     <date>
+                        <hi>March</hi> 30. 1688.</date>
+                     <signed>Patr. Clogher.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SAint <hi>Auſtin</hi> in the firſt Book of his Retractations tells us of a certain Friend of his named <hi>Honoratus,</hi> a <hi>Manichee,</hi> that was wont to ridicule the <hi>Catholique Religi<g ref="char:EOLhyphen"/>on</hi> as irrational, for teaching men to <hi>Believe</hi> rather then underſtand.</p>
+                  <p>To convince this Perſon, he wrote his Book <hi>De utilitate Credendi:</hi> Wherein he ob<g ref="char:EOLhyphen"/>ſerves the imbecility of all humane underſtanding; and the incapacity of moſt men to diſ<g ref="char:EOLhyphen"/>cern betwixt true <hi>Reaſon</hi> and the <hi>Appearance</hi> of it: and how Chriſtians are therefore bound to believe <hi>One Holy Catholique and Apoſtolique Church, againſt which the Gates of Hell ſhall never prevail.</hi>
+                  </p>
+                  <p>I pray be pleaſed to remember our Saviours words to Saint <hi>Thomas</hi> the Apoſtle, <hi>Thomas, becauſe thou haſt ſeen me, thou haſt believed, bleſſed are they that have not ſeen, and yet have believed,</hi> John 20.29. What great matter is it (ſaith the ſame St. <hi>Auſtin</hi>) to believe nothing but what our <hi>Senſe</hi> or <hi>Reaſon</hi> can comprehend? it being the Excellency of Faith to believe what we do not ſee.</p>
+                  <p>To this purpoſe <hi>Ruffinus</hi> in the third Chapter of his Eccleſiaſtical Hiſtory, <hi>lib.</hi> 1. delivers a paſſage which hapned at the firſt Council of <hi>Nice</hi> about 318 years after Chriſt. The <hi>Council</hi> being aſſembled, liberty was granted to all learned Pagans to come and object what they could againſt the Articles of the Chriſtian Faith. Many came, and among the reſt a Philoſopher of great fame for <hi>Senſe</hi> and <hi>Reaſon;</hi> who diſputed very rationally (as he thought) and deſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſed all the Anſwers given by the learned Men of the Council. At laſt, one of the Aſſembly, a man of great Simplicity, ſays <hi>Ruffinus</hi> (whoſe name or quality he does not mention) ſtands up, and praying liberty to ſpeak (inſted of other Reſolution to the Arguments of that Philoſopher) makes a bare Reherſal of his <hi>Creed</hi> to this effect, <hi>viz. I believe in God who made me of the duſt of the Earth; and by the power of his</hi> Word <hi>created all things. This Word is the Son of God, who compaſſionating the loſt condition of mankind, condeſcended to aſſume our likeneſs; and expos'd his Life as a Satisfaction for our Sins: I believe his Reſurrection from the Grave: His Aſcention into Heaven; from whence he ſhall return to give Judgment on all our Actions whether Good or Evil,</hi> &amp;c.</p>
+                  <p>It pleaſed God, that this plain recital of his <hi>Faith</hi> was more regarded by that Philoſo<g ref="char:EOLhyphen"/>pher than all the other Anſwers he had rece<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ved: Inſomuch that he confeſſed openly, whilſt matters were controverted in the way of his own Reaſon, he never wanted ſome<g ref="char:EOLhyphen"/>what
+<pb n="2" facs="tcp:58274:2"/>to Oppoſe; but now he could not reſiſt the Power of God: So that immediately he went forth and was baptized.</p>
+                  <p>The <hi>Plain Man</hi> was in the Right, not to enter into more Controverſie with a Perſon ſo opinionated of his <hi>own Reaſon:</hi> For the Myſteries of our <hi>Faith,</hi> which we receive on the Authority of God and his Church, are not to be brought down before the inſufficient <hi>Tribunal</hi> of every Mans <hi>Reaſons.</hi> We cannot there fore more effectually put to ſilence the Arrogance of <hi>Schiſm</hi> and <hi>Hereſie,</hi> then by thoſe words of St. <hi>Paul, I have delivered unto you that which I alſo received,</hi> 1 Cor. 15. which you are to believe at your peril.</p>
+                  <p>The firſt ſtep to Health is to know the root of our Diſeaſe; the root of all <hi>Schiſm</hi> and <hi>Hereſie</hi> is the <hi>Opinion</hi> of our own Senſe and Reaſon; or (which is the ſame thing) <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi> interpreted by every Man<hi>'s</hi> Reaſon. Do but ask a <hi>Socinian,</hi> why he denies the Divine Nature of <hi>Jeſus Chriſt?</hi> He will anſwer you, 'tis againſt Reaſon and Scripture to believe it; but then he means his <hi>own Reaſon</hi> and his <hi>own Interpretation</hi> of Scripture. Ask a <hi>Proteſtant</hi> why he denies <hi>Tranſubſtantiation?</hi> and he will return you the very ſame Anſwer. Likewiſe the <hi>Presbyterian</hi> and <hi>Independent</hi> will produce you <hi>Reaſon</hi> and <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi> enough (as they underſtand it) againſt the <hi>Common-Prayer Book</hi> and <hi>Ceremonies</hi> of the Church of <hi>England.</hi> Thus every Man's Reaſon or Interpretation of <hi>Scripture</hi> being ſet up for his Guide in Religion; there muſt of neceſſity follow as many Diſtractions and Subdiviſions amongſt the <hi>Proteſtants,</hi> as there are varieties of <hi>Reaſon</hi> or <hi>Fancy</hi> in mens Heads.</p>
+                  <p>In matters relating to their Temporal Eſtates, <hi>wiſe Proteſtants</hi> are not uſually very confident of their own Reaſon; but in matters of <hi>Faith</hi> not ſo obvious to <hi>humane</hi> Senſe or Apprehenſion; 'tis ſtrange how every one thinks it his wiſeſt courſe to follow his own <hi>Judgment</hi> of <hi>Diſcretion;</hi> preſuming ſo far upon it, that he runs headlong with it; as though it were every Mans Wiſdom to ſuſpect his <hi>own Judgment</hi> in the <hi>Tranſitory</hi> con<g ref="char:EOLhyphen"/>cernments of this Life, but not in thoſe of his <hi>Soul,</hi> which are of everlaſting impor<g ref="char:EOLhyphen"/>tance. Now to be ſo diffident of their <hi>own Reaſon,</hi> and ſo apt to ſubmit to other mens <hi>advice</hi> about the ſecurity of their <hi>Eſtates,</hi> and ſo negligent in the matter of their <hi>Souls,</hi> what is it in reality, but to believe an <hi>immortality</hi> of their <hi>Eſtates</hi> rather than their <hi>Souls?</hi>
+                  </p>
+                  <p>Well Sir, But let us not forget the Anſwers that are wont to be made to this kind of Diſcourſe. Firſt (ſay you) if Sectaries miſtake <hi>Scripture</hi> and pretend to <hi>Reaſon,</hi> what's that to the <hi>true Proteſtant,</hi> who makes good uſe of his <hi>own Judgment,</hi> and Reverences the <hi>Authority</hi> of the Church? Very good; but is it not the avowed <hi>Principle</hi> of all ſorts of <hi>Proteſtants,</hi> that every Man (let him be <hi>Sectary,</hi> or what he will) muſt be allowed a <hi>Judg<g ref="char:EOLhyphen"/>ment</hi> of <hi>Diſcretion</hi> to read and interpret the <hi>Scripture</hi> for <hi>Himſelf,</hi> ſo as not to Pin his Reli<g ref="char:EOLhyphen"/>gion on the <hi>Sleeve</hi> of the Church? <hi>to private men we yield only a Judgment of Diſcretion</hi> (ſaith Biſhop <hi>Bramhall</hi>) <hi>that is, we would not have reaſonable Men like</hi> Davids <hi>Horſe or Mule void of underſtanding. To the Paſtors of the Church we give a Judgment of Direction; and to the chief Paſtors or Biſhops we give a Judgment of Juriſdiction,</hi> page 1017. of his Works printed at <hi>Dublin.</hi>
+                  </p>
+                  <p>Now, Sir, remember your own Principle, every <hi>Sectarian Preacher</hi> muſt be allow<g ref="char:EOLhyphen"/>ed his Judgment of Diſcretion; and every little Shopkeeper the liberty of Scripture; but what if that Shopkeepers Judgment, or Interpretation of Scripture happens to contradict the Judgment of <hi>Direction</hi> which belongs to the chief Paſtors or Biſhops of the Church? Do you allow any man to read the <hi>Bible,</hi> and then debar him the uſe of his <hi>Reaſon</hi>
+                     <pb n="3" facs="tcp:58274:2"/>or liberty of his <hi>Conſcience?</hi> Does he miſtake <hi>Scripture,</hi> becauſe he cannot ſee with your eyes, or underſtand as you do? And whereas you ſay, the true <hi>Proteſtant</hi> reverences the <hi>Authority</hi> of the <hi>Church;</hi> I pray tell me what Church-Authority did the firſt Reformers under <hi>Edward</hi> 6. ſubmit to? there being at the death of <hi>Henry</hi> 8. no ſuch thing as a <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> Church of <hi>England,</hi> but <hi>Maſs</hi> ſaid in all Churches of the Nation; yes, and in al<g ref="char:EOLhyphen"/>moſt the whole <hi>Chriſtian</hi> World. And to make it evident to you beyond all contradiction, that the firſt Reformers under <hi>Edward</hi> 6. regarded no Church at all, that was then ex<g ref="char:EOLhyphen"/>tant, no not their own Biſhops; I ſhall produce you the Teſtimonies of <hi>Burnet</hi> and <hi>Fox,</hi> which you may pleaſe to exa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ine at your leiſure.</p>
+                  <p>In the year 1547. the firſt year of King <hi>Edward</hi> 6. <hi>the Engliſh Biſhops were required</hi> (ſays <hi>Burnet</hi>) <hi>to take out new Commiſſions</hi> (for their Biſhopricks). — <hi>But this was only done</hi> (ſaith he) <hi>by reaſon of the preſent juncture; becauſe the Biſhops being generally addict<g ref="char:EOLhyphen"/>ed to the former Superſtition</hi> (viz. Popery) <hi>it was thought neceſſary to keep them under ſo arbitrary a Power as that ſubjected them to; for they thereby held their Biſhopricks only du<g ref="char:EOLhyphen"/>ring the Kings Pleaſure, and were to exerciſe them as his Delegates in his Name and by his Authority,</hi> Hiſtor. Reformat. 2 vol. pag. 6.</p>
+                  <p>Obſerve this, how the <hi>Engliſh Biſhops</hi> at King <hi>Edwards</hi> coming to the Crown were gene<g ref="char:EOLhyphen"/>rally <hi>Papiſts,</hi> by <hi>Burnets</hi> own Confeſſion; and to terrifie them into a ſubmiſſion to the pretended <hi>Reformation,</hi> they were compelled by <hi>Cranmer</hi> and the reſt of the Kings Privy Council (the King himſelf being a Child of nine years old) to take out new Commiſſions for their Biſhopricks under the great Seal, to hold them only during the Kings Pleaſure, and ſo at their peril not to contradict the <hi>Reformers, Somerſet, Dudley, Cranmer, &amp;c.</hi> Thus the <hi>Reformation</hi> was impoſed on the <hi>Engliſh</hi> Church, and ſo could not be the volun<g ref="char:EOLhyphen"/>tary Act and Deed of the <hi>Engliſh Biſhops;</hi> conſequently 'twas null and void in it ſelf.</p>
+                  <p>Then ſee <hi>pag.</hi> 227. of 2 <hi>vol.</hi> and <hi>ſecond Edition,</hi> where it is confeſſed by <hi>Ridly,</hi> a grand <hi>Reformer,</hi> that during the Reign of <hi>Edward</hi> 6. <hi>many of the Biſhops, and moſt of the Clergy were all the while Papiſts in heart,</hi> &amp;c. they were afraid of thoſe <hi>Harpies</hi> of the Reformati<g ref="char:EOLhyphen"/>on, whoſe deſcription you may ſee <hi>Burn<g ref="char:punc">▪</g> pag.</hi> 9. 2 <hi>vol. ſecond Edition.</hi>
+                  </p>
+                  <p>Then ſee <hi>Fox pag.</hi> 1180. ſpeaking of King <hi>Edwards</hi> Reformation; <hi>For the moſt part the Biſhops of Churches and Dioceſſes were changed: Such as had been dumb Prelates before, were compelled to give place to other men that would preach and take pains,</hi> &amp;c. and then (ſaith <hi>Fox</hi>) <hi>of the old Biſhops ſome were committed to one Ward. ſome to another,</hi> Bonner <hi>Biſhop of</hi> London <hi>was committed to the</hi> Marſhalſy, Gardiner <hi>Biſhop of</hi> Wincheſter <hi>with</hi> Tonſtall <hi>Biſhop of</hi> Durham <hi>was caſt into the</hi> Tower.<note place="margin">Burnet pag. <hi>150 1</hi> vol. ſecond Edi<g ref="char:EOLhyphen"/>tion.</note> Tonſtall, <hi>a man of invincible Moderation, would do no body hurt,</hi> ſays <hi>Buruet. A learned man, and of a ſweet Diſpoſition</hi> (ſays <hi>Fuller,</hi> another Proteſtant Hiſtorian:) However he was a <hi>Papiſt,</hi> had a good Biſhoprick, and that was crime enough in the opinion of thoſe <hi>Reformers.</hi>
+                  </p>
+                  <p>Thus it appears out of <hi>Burnet</hi> and <hi>Fox</hi> what regard was had in the beginning of the <hi>Reformation</hi> to the <hi>Judgment</hi> of the chief Paſtors and Biſhops of the Church of <hi>England. For the moſt part the Biſhops were changed, ſome were committed to one Ward, ſome to ano<g ref="char:EOLhyphen"/>the.</hi> Fox ubi ſupra.</p>
+                  <p>So much for your <hi>Anſwer</hi> to this Diſcourſe. But I have heard of another Anſwer, and that is, It's certain (ſay ſome) that every man takes up his Religion or Church upon the Dictates of his own Reaſon; and <hi>Roman Catholiques</hi> themſelves, being demanded
+<pb n="4" facs="tcp:58274:3"/>why they embrace <hi>this Church</hi> rather than that? their Anſwer is, becauſe they judge this Church to have good Authority, and that none; which is to draw matter to their own <hi>Judgment.</hi>
+                  </p>
+                  <p>But is not this Anſwer (if it be right) a good Plea for all <hi>Schiſm</hi> and <hi>Hereſie?</hi> for <hi>Socinianiſm, Independency, Anabaptiſm?</hi> nay for <hi>Roman Catholiques</hi> too? which is more perhaps than you intend by it. For either it juſtifies the Liberty of every mans Reaſon to take up what Church or Religion he likes beſt, or it does not; if not, 'tis im<g ref="char:EOLhyphen"/>pertinent to this Diſcourſe; if it does, then <hi>Roman Catholiques</hi> are as juſtifiable, at leaſt, as any other Church whatever. Nay, if this be a good Anſwer, there can be no ſuch crimes as Schiſm or Hereſie in the world. For allow every man to follow that Church or Religion which he himſelf judges moſt conſonant to Scripture, and you ſhall never find any body in the wrong. Then to what end does the Church of <hi>England</hi> pray in her <hi>Litany, From all falſe Doctrine, Hereeſie and Schiſm Good Lord deliver us?</hi>
+                  </p>
+                  <p>Moreover, this Aſſertion of yours, that Every man takes up his Church or Religi<g ref="char:EOLhyphen"/>on upon the Dictates of his own Reaſon, may be queſtioned, ſince we are received into the Ark of Chriſts Church, and baptiz'd in the <hi>Catholique Faith</hi> before we come to the uſe of <hi>Reaſon;</hi> and afterwards by our <hi>Confirmation</hi> we do but ratifie with our own mouth, and conſent the very ſame things that were promiſed and vowed in our <hi>Baptiſm;</hi> which were <hi>(in the words of the Common Prayer Book) obediently to keep Gods holy Will and Commandments, and ſtedfaſtly to believe all the Articles of the Chriſtian Faith.</hi> And this <hi>Article</hi> among the reſt, <hi>I believe the holy Catholique Church.</hi>
+                  </p>
+                  <p>Now Chriſt having no more Churches but one (as we are taught by the <hi>Nicene Creed,</hi> and <hi>Proteſtants</hi> confeſs,) there can be no ſuch <hi>choice</hi> of <hi>Churches,</hi> or <hi>Religions,</hi> as this Anſwer ſeems to ſuppoſe; and then this <hi>One Church</hi> being <hi>holy</hi> and <hi>Catholique</hi> too, and never to be extinguiſhed, I cannot but admire at the firſt Reformers under Queen <hi>E<g ref="char:EOLhyphen"/>liſabeth</hi> and <hi>Edward</hi> the Sixth, to pretend to believe ſuch an holy, never failing Church, and at the ſame time to deliver it for Doctrine in their Book of <hi>Homilies,</hi> that <hi>Laity and Clergy, learned and unlearned, all ages, ſects of men, women and Children of whole Chriſtendom (an horrible and moſt dreadful thing to think) have been at once drown<g ref="char:EOLhyphen"/>ed in abominable Idolatry for the ſpace of eight hundred years and more.</hi>
+                  </p>
+                  <p>And in their 39 <hi>Articles</hi> to paſs this Cenſure upon the whole <hi>Chriſtian World,</hi> con<g ref="char:EOLhyphen"/>ſequently upon that <hi>Church</hi> wherein themſelves received their <hi>Baptiſm, Confirmation</hi> and <hi>holy Orders,</hi> viz. <hi>as the Church of</hi> Jeruſalem, Alexandria <hi>and</hi> Antioch <hi>have erred; ſo alſo the Church of</hi> Rome <hi>hath erred, not only in their Living and manner of Ceremonies, but alſo in matters of Faith.</hi> Article 19.</p>
+                  <p>Now for the Church of <hi>Rome</hi> to be a true Church of Chriſt, retaining all the <hi>fundamentals</hi> of Chriſtian Religion (as all ingenious <hi>Proteſtants</hi> confeſs, and particularly Biſhop <hi>Bramhall</hi>) and at the ſame time to be drowned in <hi>damnable Idolatry</hi> and to err in matters of <hi>Faith,</hi> is a ſtrange Riddle among the <hi>Proteſtants,</hi> and harder to conceive then <hi>Tranſubſtantiation.</hi> (<hi>An Error in the Eſſentials of Faith,</hi> ſaith he, <hi>deſtroys the beeing of a Church</hi>) But if <hi>Papiſts</hi> be not out of the way of Salvation, nor out of the <hi>Pale</hi> of the Church, notwithſtanding their <hi>Idolatry,</hi> the Wound is not mortal: their <hi>Idolatry</hi> it ſeems is very harmleſs; and why? the ſame Biſhop <hi>Bramhall</hi> gives you the reaſon, <hi>viz. they who are Idolaters only materially, not formally, that is againſt their meanings, reſolutions and intentions, are no Idolaters in the eyes of God or diſcerning men,</hi> neither
+<pb n="5" facs="tcp:58274:3"/>
+                     <hi>are they out of the pale of the Church, nor out of the way of Salvation. pag.</hi> 396. of his Works printed at <hi>Dublin.</hi>
+                  </p>
+                  <p>Thus, Sir, your Anſwers are ſo f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r from excuſing the Liberty of this thing, cal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'d, <hi>every mans Judgment of Diſcretion,</hi> that they expoſe the vanity and uncertainty of it; for you ſee how the firſt <hi>Reformers,</hi> by vertue of their <hi>Judgment of Diſcretion,</hi> did at<g ref="char:EOLhyphen"/>taint all <hi>Chriſtendom</hi> of damnable Idolatry for the ſpace of 800 years and more; and how Biſhop <hi>Bramhall,</hi> by vertue of his <hi>Judgment of Diſcretion,</hi> pronounces them only <hi>material Idolaters,</hi> that is, <hi>no Idolaters in the eyes of God or diſcerning men, nor out of the Pale of the Church, or way of Salvation.</hi> His Reaſon you ſhall hear by and by.</p>
+                  <p>In the mean time, you ſhall find nothing in all this Paper, that denies the modeſt uſe of our Reaſon in matters of Religion. It only intimates the uncertainty of <hi>Reaſon,</hi> that a wiſe man cannot truſt it, when it contradicts the received Faith of the Church. And truly, unleſs it be governed by the Grace of God, that is, with <hi>Humility</hi> and <hi>Charity,</hi> it runs as naturally into <hi>Schiſm, Hereſie</hi> and <hi>Rebellion,</hi> as a <hi>Cockatrice Egg</hi> into a Serpent.</p>
+                  <p>Give me leave to recom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>end to your conſideration theſe following Texts of <hi>Scripture,</hi> and then conclude with a few paſſages out of Biſhop <hi>Bramhall.</hi>
+                  </p>
+                  <p>
+                     <hi>Knowledge puffeth up, but Charity edifieth, and if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know; but if any man love God, the ſame is known of him,</hi> 1 Cor. 8.3. <hi>Seeſt thou a man wiſe in his own conceit; there is more hope of a Fool then of him,</hi> Proverbs 26.12. <hi>Be not wiſe in thine own eyes; fear the Lord, and depart from evil,</hi> Prov. 3.7. <hi>Charity never faileth: but whether there be Prophe<g ref="char:EOLhyphen"/>cies, they ſhall fail; whether there be Tongues. they ſhall ceaſe: whether there be Know<g ref="char:EOLhyphen"/>ledge, it ſhall vaniſh away. For we now ſee through a Glaſs darkly, but then face to face.</hi> 1 Cor. 13.8. <hi>Be of the ſame mind one towards another. Mind not high things. Be not wiſe in your own conceits,</hi> Rom. 12.16. <hi>All this have I proved by Wiſdom: I ſaid, I will be wiſe, but it was far from me,</hi> Eccleſ. 7.23. <hi>For vain man would be wiſe, though he be born like the wild Aſſes Colt,</hi> Job 11.12. <hi>Wo unto them that are wiſe in their own eyes, and prudent in their own ſight,</hi> Iſa. 5.21. <hi>Truſt unto the Lord with all thine heart, and lean not unto thy own Underſtanding.</hi> Prov. 3.5.</p>
+                  <p>Theſe Texts (though I ſay it) had been good Advice for the firſt Reformers, <hi>Cran<g ref="char:EOLhyphen"/>mer, Cromwell, Ann Bolen, Ridly, Latimer, Dudley, Somerſet,</hi> &amp;c. whoſe Charity or Modeſty a man can never admire, when he ſeriouſly reflects upon theſe words of their Book of <hi>Homilies,</hi> viz. <hi>Not only the unlearned and ſimple, but the learned and wiſe: not only the People, but the Biſhops: not the Sheep, but alſo the Shepherds themſelves, (who ſhould have been Guides in the right way,) as blind Guides of the blind, fell both into the pit of damnable Idolatry, in the which all the World, as it were drowned, continued until our Age</hi> (that is, until <hi>Henry</hi> 8, and <hi>Edward</hi> 6.) <hi>by the ſpace of above</hi> 800 <hi>years unſpoken againſt in a manner.</hi> 3d Part of Homily againſt Peril of Idolatry.</p>
+                  <p>Now Sir, (If <hi>Roman Catholiques</hi> may be allowed a little uſe of their <hi>Own</hi> reaſon and choice of their <hi>Own</hi> Church as well as others) I pray ſatisfie me by what Authority or Miſſion from God did thoſe <hi>Reformers</hi> damn all the Chriſtian World? And ſet vp <hi>this Altar</hi> in <hi>England</hi> againſt <hi>that</hi> in <hi>France, Spain, Germany, Italy,</hi> 
+                     <note place="margin">Burnet. Hiſt. <hi>2</hi> Vol. page <hi>14.</hi> 2d Edition.</note>
+                     <hi>Greece,</hi> &amp;c. reforming the <hi>daily Sacrifice</hi> (for ſo the <hi>Communion</hi> was called in the <hi>primitive Church</hi> as <hi>Burnet</hi> confeſſes) into once a month in all Ca<g ref="char:EOLhyphen"/>thedrals, and thrice a year in all Par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh Churches.</p>
+                  <pb n="6" facs="tcp:58274:4"/>
+                  <p>Had they any <hi>Commiſſion</hi> or had they none? If they had not (as undoubtedly they had none to authorize ſuch <hi>immodeſty,</hi>) then remember the Divine Indignation againſt <hi>Uzzab</hi> for preſuming to put forth his hand (uncommanded) to ſupport the <hi>Ark</hi> from falling, 1 <hi>Chron.</hi> 13. If they had any, do me or your ſelf the kindneſs to produce it, that we may ſee the contents of it, and there is an end of the <hi>Controverſie.</hi> But do not pretend a <hi>Miſ<g ref="char:EOLhyphen"/>ſion</hi> from the Church of <hi>Rome,</hi> or from <hi>Chriſt</hi> by the hands of <hi>Roman Catholique</hi> Biſhops. For that's like taking up Arms by the Kings <hi>Authority</hi> againſt the Kings <hi>Perſon.</hi> And by the ſame pretence a <hi>Lutheran</hi> Miniſter having received his Orders from a <hi>Roman</hi> Biſhop may Preach againſt the Sacraments of the Church of <hi>England.</hi> Beſides that it ſerves as well us <hi>Roman Catholiques</hi> to Preach againſt your Church; ſince you can never invalidate our <hi>Miſſion</hi> without deſtroying your own. Do not <hi>Roman Catholiques, Lutherans,</hi> &amp;c. think they underſtand the Doctrine of Chriſt as well as you? or what extraordinary things do you pretend to?</p>
+                  <p>I conclude with theſe paſſages out of Biſhop <hi>Bramhall,</hi> and I promiſe you his own words fairly.</p>
+                  <p>Firſt ſee page 133 of his works printed at <hi>Dublin,</hi> where you ſhall find him anſwering this Objection, that <hi>we</hi> (meaning the Proteſtants) <hi>have Schiſmatically ſeparated our ſelves from the Communion of our Anceſtors; whom we Believe to be Damn'd,</hi> &amp;c.</p>
+                  <p>He Anſwers: <hi>Firſt, for our Natural Fathers, the Anſwer is eaſie, we do not condemn them, nor ſeparate our ſelves from them. Charity requires both to think well and ſpeak well of them; but Prudence commands us to look well to our ſelves</hi> (ſo ſay the Presbyterians and Independents excuſing their not Communicating with the Church of England.) <hi>we believe our Fathers might partake of ſome Errors of the</hi> Roman <hi>Church. We do not believe that they were guilty of any Heretical pravity</hi> (obſerve this,) <hi>but held always the Truth im<g ref="char:EOLhyphen"/>plicitely in the preparation of their Minds, and were always ready to receive it when God ſhould pleaſe to reveal it unto them, upon theſe grounds we are ſo far from damning them, that we are confident they were ſaved by a general Repentance,</hi> &amp;c.</p>
+                  <p>Then ſee page 68. of his whole Works; <hi>If men might not be ſaved by a general and implicite Repentance, they were in a woful Condition, for who can tell how oft he offendeth,</hi> Pſal. 19. <hi>and if by a general and implicite Repentance, why not by a general and implicite Faith? Why not by a general and implicite Obedience? So as they do their utmoſt endea<g ref="char:EOLhyphen"/>vours to learn their Duties and are ready to conform themſelves when they know them,</hi> &amp;c. <hi>In vain doth he</hi> (meaning S. N. a Roman Catholique) <hi>demand whether the Church of</hi> Proteſtants <hi>were extant in the World before the Reformation, as if</hi> Proteſtancy <hi>were of the</hi> Eſſence <hi>of the Church. As the Errors of the</hi> Roman <hi>Church were accidental to it, ſo likewiſe was the</hi> Proteſtation <hi>againſt thoſe Errors, and the</hi> Reformation <hi>of them which might either be preſent or abſent</hi> ſine interitu ſubjecti. (Mark Sir, what is the Engliſh of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, but that there was no ſuch abſolute neceſſity of <hi>Reformation</hi> as that Chriſts Church could not ſubſiſt without it?) He proceeds, <hi>A Garden is the ſame before it be weeded and af<g ref="char:EOLhyphen"/>ter: To be purged doth not give a new Being to the Body. The Glory of Chriſts Church was not extinguiſhed by Superſtitious Errors, but only eclipſed.</hi> page 1013. of his Works.</p>
+                  <p>
+                     <hi>For the extent of our Separation we have not left the Catholique Church but only the</hi> Ro<g ref="char:EOLhyphen"/>man <hi>Church</hi> (ſaith he.) Now I pray (ſetting aſide the <hi>Roman</hi> Church) name me that Church under the Sun whoſe Sacraments and Liturgy the Church of <hi>England</hi> embraces? Does ſhe communicate with the <hi>Greek</hi> Church? No, that Church is for <hi>Maſs,</hi> the <hi>Cor<g ref="char:EOLhyphen"/>poral
+<pb n="7" facs="tcp:58274:4"/>Preſence, Invocation of Saints, Prayers for the Dead,</hi> &amp;c. Does ſhe Communicate with <hi>Lutherans, Calviniſts, Anabaptiſts,</hi> &amp;c. No, no, <hi>Lutherans</hi> are for the Corporal Preſence, the Crucifix over the Altar, <hi>&amp;c.</hi> The Calviniſts and Anabaptiſts have no Orders of Prieſts and Biſhops, therefore 'tis a queſtion whether they have any true Sa<g ref="char:EOLhyphen"/>craments at all. <hi>For we as for our parts believe</hi> (ſaith Biſhop <hi>Bramhall</hi>) <hi>Epiſcopacy to be at leaſt an Apoſtolical Inſtitution approved by Chriſt himſelf in the</hi> Revelation, <hi>Ordained in the infancy of Chriſtianity as a remedy againſt Schiſm and we bleſs God that we have a clear Succeſſion of it,</hi> page 133. of his works printed at <hi>Dublin.</hi>
+                  </p>
+                  <p>So that I cannot but wonder at thoſe words of his, page 1018. <hi>We have not left the Catholique Church but only the</hi> Roman <hi>Church.</hi> Good Sir, Name that Church in <hi>Europe, Aſia, Africa,</hi> or <hi>America</hi> whom your Reformers have not left: tell us in what City or Province we ſhall find it.</p>
+                  <p>Then obſerve theſe words, <hi>ibid. p.</hi> 1018. <hi>We would admit the Church of</hi> Rome <hi>to be a Siſter, if that would content them; yea, an elder Siſter; and rather than fail, to be a Mother Church to the</hi> Saxons (<hi>or</hi> ancient Engliſh,) <hi>but we may not allow them the place of a Lady and Miſtreſs.</hi>
+                  </p>
+                  <p>And further, <hi>We believe the Holy Ghoſt doth lead the Catholique or Univerſal Church into all Truths, which are ſimply neceſſary to Salvation, and preſerves it from all ſuch dam<g ref="char:EOLhyphen"/>nable Errors as are deſtructive to ſaving Faith.</hi> pag. 1018.</p>
+                  <p>The difficulty, Sir, is, to find out this <hi>Catholique Church,</hi> the Provinces or Cities where it dwelt before the <hi>Reformation</hi> or ſince; if it be not in <hi>O Brazeel,</hi> the <hi>Iſle of Pines,</hi> or the <hi>New Atlantis.</hi> And when we have found it out, what is the reaſon the Church of <hi>England</hi> does not communicate with its Sacraments and Liturgy; ſince <hi>the Holy Ghoſt doth lead it into all Truths, which are ſimply neceſſary to Salvation, and preſerves it from all ſuch damnable Errors as are deſtructive to ſaving Faith,</hi> as the Biſhop aſſerts poſi<g ref="char:EOLhyphen"/>tively, <hi>ubi ſupra.</hi> Theſe are the Queſtions that you may pleaſe to anſwer at your lei<g ref="char:EOLhyphen"/>ſure. If there be any ſuch Church out of <hi>England,</hi> what needs any Separation from her Sacraments or Altars? where is the danger of communicating with her? did the firſt Reformers under <hi>Edward</hi> 6. believe themſelves, when they repeated this Article of their Creed, <hi>One holy Catholique and Apoſtolique Church?</hi> if ſo; why did they attaint all the Chriſtian world of <hi>abominable</hi> and <hi>damnable Idolatry</hi> for the ſpace of 800 years and more?</p>
+                  <closer>
+                     <salute>Farewell.</salute>
+                  </closer>
+                  <postscript>
+                     <p>SIR, Give me leave to add, by way of <hi>Poſtſcript,</hi> that if you do not like this Pa<g ref="char:EOLhyphen"/>per, I ſhall deſire to know your <hi>Reaſons;</hi> and when I know them, perhaps I ſhall not like 'em. You allow every man his <hi>Judgment of Diſcretion,</hi> that is, a liberty to think or not think as you do in matters of Religion. Stick to that <hi>Principle;</hi> and I ſee not how you can find <hi>fault,</hi> much leſs perſecute any mans <hi>Opinion,</hi> without contradicting your ſelf.</p>
+                     <p>But I have worſe news than that to tell you; the <hi>Good People</hi> of theſe Nations ne<g ref="char:EOLhyphen"/>ver dreamt of a thing call'd a <hi>Republick,</hi> or <hi>Free State,</hi> before the bleſſed days of <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> that is, until <hi>Scripture</hi> came to be underſtood according to every mans <hi>Judg<g ref="char:EOLhyphen"/>ment of Diſcretion.</hi>
+                     </p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
